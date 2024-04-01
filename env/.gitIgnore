@@ -1,0 +1,125 @@
+# Editores
+.vscode/
+.idea/
+
+# Vagabundo
+.vagabundo/
+
+# Mac/OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Fuente de las siguientes reglas: https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore
+# Archivos compilados por bytes / optimizados / DLL
+__pycache__/
+*.py[bacalao]
+*$py.class
+
+# Extensiones C
+*.así que
+
+# Distribución / embalaje
+. Pitón
+construir/
+desarrollar-huevos/
+Dist/
+Descargas/
+huevos/
+.huevos/
+Lib/
+lib64/
+partes/
+sdist/
+Var/
+ruedas/
+*.egg-info/
+.instalado.cfg
+*.huevo
+MANIFIESTO
+
+# PyInstaller
+# Por lo general, estos archivos se escriben mediante un script de Python a partir de una plantilla
+# antes de que PyInstaller construya el exe, para inyectar fecha/otra información en él.
+*.manifiesto
+*.Especificaciones
+
+# Registros del instalador
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pruebas unitarias / informes de cobertura
+htmlcov/
+.Tox/
+.Nox/
+.cobertura
+.cobertura.*
+.caché
+nosetests.xml
+coverage.xml
+*.cubrir
+.hipótesis/
+.pytest_cache/
+
+# Traducciones
+*.Mo
+*.olla
+
+# Cosas de Django:
+*.registro
+local_settings.py
+db.sqlite3
+
+# Cosas del matraz:
+instancia/
+.webassets-cache
+
+# Cosas rasposas:
+.scrapy
+
+# Documentación de Sphinx
+documentos/_build/
+
+# PyBuilder (Constructor de Py)
+blanco/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Archivo de programación de batido de apio
+apio-batido horario
+
+# Archivos analizados de SageMath
+*.sage.py
+
+# Entornos
+.Env
+.venv
+Env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configuración del proyecto Spyder
+.spyderproyecto
+.spyproject
+
+# Ajustes del proyecto de cuerdas
+.ropeproject
+
+# Documentación de MKDOCS
+/sitio
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
